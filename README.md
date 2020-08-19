@@ -13,7 +13,7 @@ You can connect with me via the icons below!
 
 <p align = "center">
   <a href="https://www.linkedin.com/in/brilam8/" target="_blank"> <img src="https://img.icons8.com/nolan/64/linkedin.png" width="50px"/> </a>
-  <a href="mailto:brilam8@gmail.com" target="_blank"><img src="https://img.icons8.com/nolan/64/new-post.png" width="50px"/> </a>
+  <a href="mailto:brilam8@gmail.com"><img src="https://img.icons8.com/nolan/64/new-post.png" width="50px"/> </a>
   <a href="http://www.lambrian.me/" target="_blank"><img src="https://img.icons8.com/nolan/64/domain.png" width="50px"/> </a>
 </p>
 
