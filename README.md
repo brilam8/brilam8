@@ -2,7 +2,7 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=brilam8&show_icons=true&hide_border=true" align = "right"/>
 
-I'm a Computer Science student studying at **UC San Diego**, and an aspiring software engineer. Lately, I have been focusing on back-end development for numerous projects but have delved into front-end development and design in the past!
+I'm a Computer Science student studying at **UC San Diego**, and an aspiring software engineer. Lately, I have been focusing on back-end development for numerous projects but have worked on front-end development in the past!
 <br></br>
 
 I have put thousands of hours and a lot of love into my open-source projects as well as contributing towards others' open-source projects, which you can find here, on my Github! Some of my favorites are pinned below and while I still maintain most of my projects, some have been shelved to make more time for newer, more developed projects as I learn more about my studies! 
